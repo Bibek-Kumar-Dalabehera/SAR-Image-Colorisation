@@ -2,7 +2,6 @@
 
 **Innovative Colorization Techniques for Improved SAR Image Analysis and Interpretation**
 
-Developed by: **COSMIC CODERS**
 
 ---
 
