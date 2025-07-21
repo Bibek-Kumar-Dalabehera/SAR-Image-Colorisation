@@ -45,8 +45,8 @@ A **hybrid model** based on **CNN + GAN**, incorporating:
 | Programming | Python |
 | Libraries | TensorFlow, Keras, OpenCV, PIL, Matplotlib, Seaborn |
 | Web Frontend | HTML, CSS, JavaScript |
-| Web Backend | Flask, NodeJS |
-| Cloud & Hosting | Google Cloud, Vertex AI, Gemini API, AWS |
+| Web Backend | Flask, Authentication|
+| Cloud & Hosting | Render, AWS |
 
 ---
 
